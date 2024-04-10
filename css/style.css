@@ -1,0 +1,46 @@
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.baskervville-regular {
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.primary {
+    color: #336a86 !important;
+}
+
+.secondary {
+    color: #8eaec4 !important;
+}
+
+.accent {
+    color: #283132 !important;
+}
+
+body {
+    background-color: #f9f9f9;
+    font-family: "Roboto", sans-serif !important;
+}
+
+h1,
+h2,
+h3 {
+    font-family: "Baskervville", serif !important;
+}
+
+.active {
+    background-color: #283132 !important;
+}
+
+.nav-link {
+    color: #8eaec4;
+}
+
+.btn-primary {
+    background-color: #283132 !important;
+    border: 0;
+}
